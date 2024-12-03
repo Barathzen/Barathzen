@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNiYTdpYTU5MjJ5bGxmMjhrdHdra21lbTVkeGMwd2c1cGg2Y2t5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TbYgHMnICI1A4/giphy.gif" alt="Coding Gif" />
+  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempydHN2amZiYm01OW5tcTNyMGVuMTd5NXoza2N4dGQ5Nmh6dnlkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXibbAa7ysN9K/giphy.gif" alt="Coding Gif" />
 </div>
 
 
@@ -30,7 +30,8 @@
 
 ---
 <div align='center'>
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempydHN2amZiYm01OW5tcTNyMGVuMTd5NXoza2N4dGQ5Nmh6dnlkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXibbAa7ysN9K/giphy.gif" alt="Coding Gif" />
+  
+  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNiYTdpYTU5MjJ5bGxmMjhrdHdra21lbTVkeGMwd2c1cGg2Y2t5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TbYgHMnICI1A4/giphy.gif" alt="Coding Gif" />
 </div>
 
 ### 🛠️ Skills and Tools
