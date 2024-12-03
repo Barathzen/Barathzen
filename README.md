@@ -59,13 +59,13 @@
 
 ### 🌐 Connect with Me
 <div align="left">
-  <a href="https://linkedin.com/in/barath-m-r" target="_blank">
+  <a href="https://linkedin.com/in/barath711" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/_chitu_kuruvi_28_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/c/cupid" target="_blank">
+  <a href="https://www.youtube.com/@_close_friend_28_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
   <a href="mailto:barathzen18@gmail.com">
