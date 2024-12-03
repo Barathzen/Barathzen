@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Barath M R</h1>
-<h3 align="center">Zealous Frontend Developer and Data Scientist from India</h3>
 
-<p align="center"> 
+<h1 align="left">Hi 👋, I'm Barath M R</h1>
+
+<h3 align="left">Zealous Frontend Developer and Data Scientist from India</h3>
+
+<div align="right">
+  <img height="100%" width = 100% src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh2c3lpeGY4cWNlMXRkM2FudzQ0MDNhOW53OXRnZmpud25hMzE5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" alt="Coding Gif" />
+  </div>
+
+
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=barathzen&label=Profile%20views&color=0e75b6&style=flat" alt="barathzen" />
 </p>
-
-<div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExempydHN2amZiYm01OW5tcTNyMGVuMTd5NXoza2N4dGQ5Nmh6dnlkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXibbAa7ysN9K/giphy.gif" alt="Coding Gif" />
-</div>
-
-
----
-
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **React, Angular**
