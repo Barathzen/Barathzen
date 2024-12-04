@@ -51,7 +51,7 @@
 
 
 
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g0MHR1c21vbTZ5aGhwcGhtazJpeTAxMGdxcW03OWMxaGZyYnl3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif" height="250"width=50% />
   <p style="fontsize =200px; align-items=left">🌐 Connect with Me</p>
   <div>
