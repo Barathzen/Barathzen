@@ -17,7 +17,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div>
     <ul>
-      <li>🌱 I’m currently learning <strong>React, Angular</strong></li>
+      <li>🌱 I’m currently learning <strong>Java</strong></li>
       <li>🤝 I’m looking for help with <strong>Frontend Development (Upskilling)</strong></li>
       <li>💬 Ask me about <strong>Python, JavaScript, Flask, Django</strong></li>
       <li>📫 How to reach me: <strong>barathzen18@gmail.com</strong></li>
