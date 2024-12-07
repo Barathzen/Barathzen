@@ -1,5 +1,5 @@
 <h1 align="center" padding=20px right-margin= 20px>Hi 👋, I'm Barath M R</h1>
-<h3 align="center">Zealous Frontend Developer and Data Scientist from India</h3>
+<h3 align="center">Zealous Frontend Developer and Data Scientist from India.</h3>
 
 <div align ="center">
   
