@@ -41,9 +41,9 @@
   
 </div>
     <div align = 'left'>
-      <p>Languages: JavaScript, HTML, CSS, Python</p>
-      <p>Frameworks: Flask, Django, Angular, React</p>
-      <p>Tools: VS Code, Azure, MongoDB</p>
+      <p>Languages: Python</p>
+      <p>Frameworks: Flask, React</p>
+      <p>Tools: VS Code, MongoDB</p>
     </div>
   </div>
 </div>
