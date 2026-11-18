@@ -20,7 +20,7 @@
 
 ## About Me
 
-> *"Code is not just logic — it's craft."*
+> *"Code is not just logic — it's craft.."*
 
 I'm a **Software Developer** and **Data Scientist** from India, passionate about building elegant interfaces and deriving meaningful insights from data. I thrive at the intersection of design and data — creating experiences that are both visually compelling and analytically driven.
 
